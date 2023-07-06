@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "dashboard-cost-app": {
+      "hosting": {
+        "dashboard-cost-app": [
+          "dashboard-cost-app"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "dashboard-cost-app"
+  }
+}

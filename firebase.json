@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "dashboard-cost-app",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
